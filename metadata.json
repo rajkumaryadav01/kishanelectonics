@@ -1,0 +1,6 @@
+{
+  "name": "Kishan Electronics",
+  "description": "Online ECE & electronics components catalogue, project kits, and pickup ordering system for ICs, sensors, Arduino, and modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
